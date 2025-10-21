@@ -22,4 +22,4 @@ This is a simple front-end To-Do List application built using HTML, CSS, and Van
 - Event handling
 - JavaScript ES6 features
 
-![To-Do App Screenshot](images/screenshot.png)
+![To-Do App Screenshot](images/Screenshot.png)
